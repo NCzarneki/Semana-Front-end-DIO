@@ -3,7 +3,7 @@
 </p>
 
 -------
-Projeto referente ao evento Semana Front End oferecido pela Digital Innovation One. Projeto construído para fins didáticos, com o objetivo de colocar em prática os conhecimentos de HTML, CSS, JavaScript e banco de dados FireBase.
+Projeto referente ao evento Semana Front End oferecido pela Digital Innovation One. Projeto construído para fins didáticos, página com theme switcher utilizando HTML, CSS e JavaScript, além de integrar um formulário de inscrição com um banco de dados Firebase.
 
 
 ## 💻 Tecnologias
